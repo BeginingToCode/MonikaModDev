@@ -66,6 +66,7 @@ label monika_playerapologizes:
         11: "not listening to your speech.",
         12: "calling you evil.",
         13: "not answering you seriously."
+        14: "hating you."
     }
 
     #Set the prompt for this...
